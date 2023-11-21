@@ -1,4 +1,4 @@
-# Freecodecamp
+# elixir-mix
 
 **TODO: Add description**
 
